@@ -1,0 +1,1 @@
+var reader = new FileReader();var fs = new File('sample.csv')console.log(fs[1])
