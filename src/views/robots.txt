@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://wiiworld-lottol.herokuapp.com/sitemap.xml
